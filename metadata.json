@@ -1,0 +1,5 @@
+{
+  "name": "Maternity Readmission Risk Predictor",
+  "description": "A comprehensive machine learning dashboard for predicting maternity patient readmission risk, including EDA, model evaluation, and ethics auditing.",
+  "requestFramePermissions": []
+}
